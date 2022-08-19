@@ -40,7 +40,7 @@
 #background1 {
     height: 650px;
     background-repeat: no-repeat;
-    background-image: url(../midias/flor.jpg);
+    background-image: url(midias/flor.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -473,7 +473,7 @@
 .background5 {
     margin-left: 339px;
     background-size: cover;
-    background-image: url(../midias/back5.jpg);
+    background-image: url(midias/back5.jpg);
     opacity: 0.98;
     width: 800px;
     height: auto;
